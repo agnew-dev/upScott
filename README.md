@@ -1,1 +1,3 @@
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
+This is the ultimate chrome extension.
+
+Harness the power of the Scott while browsing /r/hockey
